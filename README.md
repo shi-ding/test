@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/shidin0378/shidin_pipeline1/_apis/build/status/shi-ding.test?branchName=master)](https://dev.azure.com/shidin0378/shidin_pipeline1/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
